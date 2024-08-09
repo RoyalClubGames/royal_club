@@ -1,5 +1,5 @@
 
-# ApnaMoney
+# Royal Club Apk
 <p align="center">
   <img src="app/src/main/ic_launcher-playstore.png">
 </p>
