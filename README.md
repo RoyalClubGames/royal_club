@@ -1,16 +1,25 @@
-# royal_club
 
-A new Flutter project.
+# ApnaMoney
+<p align="center">
+  <img src="app/src/main/ic_launcher-playstore.png">
+</p>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<h3 align="left">Description:</h3>
+Apna Money is an android application developed in Java(Android) that helps users to track their expense and set monthly budget. <br>
 
-A few resources to get you started if this is your first Flutter project:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  
+ 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h3 align="left">Features:</h3>
+
+- User can set their monthly budget
+- User can view their daily\weekly\monthly expenses
+- User Friendly UI .
+- Referesh load ready.
+- Analyse their monthly expense in graphical format
+- Can View only transaction messages of user in Apna Money App
