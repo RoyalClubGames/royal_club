@@ -1,26 +1,14 @@
 
 # Royal Club Apk
-<p align="center">
-  <img src="app/src/main/ic_launcher-playstore.png">
-</p>
 
 <img src="screenshots/royal.png" width="500" alt="Home Screen">
 
-<h3 align="left">Description:</h3>
-Apna Money is an android application developed in Java(Android) that helps users to track their expense and set monthly budget. <br>
+Discover the ultimate online casino experience with our app! Whether you're logging in to Royal Club or Royal Win 999, you're in for a thrilling ride. Join the Royal Club VIP for exclusive perks, or try your luck with Royal Win 777 and Royal Rummy. Our app also features unique games like Plinko APK and Aviator GPT APK, ensuring endless excitement. New users can easily Royal Win login, or Royal Club Login, or Cockfight register to start playing. With Royal Club APK, the casino is always at your fingertips, offering non-stop action and big wins
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  
- 
+For more information or to start playing, visit our official websites below. Click on the links to explore all that Royal Club has to offer!
 
-
-<h3 align="left">Features:</h3>
-
-- User can set their monthly budget
-- User can view their daily\weekly\monthly expenses
-- User Friendly UI .
-- Referesh load ready.
-- Analyse their monthly expense in graphical format
-- Can View only transaction messages of user in Apna Money App
+<p><a href="https://royalwinofficial.in/">Royal Win Official</a></p>
+<p><a href="https://rummysultanofficial.in/">Rummy Sultan Official</a></p>
+<p><a href="https://royalclubcasino.co.in/">Royal Club Casino</a></p>
+<p><a href="https://royalclubofficial.in/">Royal Club Official</a></p>
+<p><a href="https://tulvip.com">TulVip</a></p>
