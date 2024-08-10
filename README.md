@@ -4,6 +4,7 @@
   <img src="app/src/main/ic_launcher-playstore.png">
 </p>
 
+<img src="screenshots/royal.png" width="300" alt="Home Screen">
 
 <h3 align="left">Description:</h3>
 Apna Money is an android application developed in Java(Android) that helps users to track their expense and set monthly budget. <br>
